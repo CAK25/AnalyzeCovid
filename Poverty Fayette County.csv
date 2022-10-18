@@ -1,0 +1,70 @@
+﻿Label (Grouping),"Fayette County, Pennsylvania!!Total!!Estimate","Fayette County, Pennsylvania!!Total!!Margin of Error","Fayette County, Pennsylvania!!Below poverty level!!Estimate","Fayette County, Pennsylvania!!Below poverty level!!Margin of Error","Fayette County, Pennsylvania!!Percent below poverty level!!Estimate","Fayette County, Pennsylvania!!Percent below poverty level!!Margin of Error"
+Population for whom poverty status is determined,"122,116","±1,155","19,146","±2,834",15.70%,±2.3
+    AGE,,,,,,
+        Under 18 years,"23,096",±838,"4,470","±1,296",19.40%,±5.6
+            Under 5 years,"5,506",±447,"1,010",±444,18.30%,±8.0
+            5 to 17 years,"17,590",±564,"3,460","±1,029",19.70%,±5.8
+            Related children of householder under 18 years,"22,924",±869,"4,298","±1,286",18.70%,±5.6
+        18 to 64 years,"71,994",±851,"11,519","±1,808",16.00%,±2.5
+            18 to 34 years,"22,188",±690,"4,351","±1,017",19.60%,±4.7
+            35 to 64 years,"49,806",±671,"7,168","±1,360",14.40%,±2.7
+        60 years and over,"37,074","±1,247","4,742","±1,061",12.80%,±2.9
+        65 years and over,"27,026",±373,"3,157",±863,11.70%,±3.2
+    SEX,,,,,,
+        Male,"60,229","±1,089","9,219","±1,796",15.30%,±3.0
+        Female,"61,887",±765,"9,927","±1,400",16.00%,±2.3
+    RACE AND HISPANIC OR LATINO ORIGIN,,,,,,
+        White alone,"110,143","±1,764","16,592","±2,493",15.10%,±2.2
+        Black or African American alone,N,N,N,N,N,N
+        American Indian and Alaska Native alone,N,N,N,N,N,N
+        Asian alone,N,N,N,N,N,N
+        Native Hawaiian and Other Pacific Islander alone,N,N,N,N,N,N
+        Some other race alone,N,N,N,N,N,N
+        Two or more races,"7,224","±1,760","1,670",±796,23.10%,±12.1
+        Hispanic or Latino origin (of any race),N,N,N,N,N,N
+"        White alone, not Hispanic or Latino","109,749","±1,695","16,582","±2,493",15.10%,±2.3
+    EDUCATIONAL ATTAINMENT,,,,,,
+        Population 25 years and over,"90,969",±829,"13,105","±1,997",14.40%,±2.2
+            Less than high school graduate,"10,092","±1,608","2,975",±848,29.50%,±7.0
+            High school graduate (includes equivalency),"41,531","±2,586","6,707","±1,459",16.10%,±3.1
+"            Some college, associate's degree","22,204","±2,383","2,293",±690,10.30%,±3.0
+            Bachelor's degree or higher,"17,142","±2,006","1,130",±639,6.60%,±3.5
+    EMPLOYMENT STATUS,,,,,,
+        Civilian labor force 16 years and over,"56,946","±2,375","5,061","±1,107",8.90%,±1.9
+            Employed,"51,926","±2,505","3,101",±880,6.00%,±1.7
+                Male,"27,350","±1,573","1,054",±474,3.90%,±1.7
+                Female,"24,576","±1,527","2,047",±713,8.30%,±2.8
+            Unemployed,"5,020","±1,257","1,960",±717,39.00%,±10.3
+                Male,"2,607",±766,975,±460,37.40%,±13.0
+                Female,"2,413",±963,985,±575,40.80%,±15.3
+    WORK EXPERIENCE,,,,,,
+        Population 16 years and over,"102,083",±983,"15,368","±2,142",15.10%,±2.1
+"            Worked full-time, year-round in the past 12 months","36,224","±2,663",680,±374,1.90%,±1.0
+            Worked part-time or part-year in the past 12 months,"21,839","±1,921","3,618","±1,022",16.60%,±4.3
+            Did not work,"44,020","±2,231","11,070","±1,748",25.10%,±3.6
+    ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,,,,,,
+        50 percent of poverty level,"9,442","±2,117",(X),(X),(X),(X)
+        125 percent of poverty level,"25,266","±3,301",(X),(X),(X),(X)
+        150 percent of poverty level,"28,872","±3,403",(X),(X),(X),(X)
+        185 percent of poverty level,"36,121","±3,953",(X),(X),(X),(X)
+        200 percent of poverty level,"39,108","±4,045",(X),(X),(X),(X)
+        300 percent of poverty level,"66,937","±4,013",(X),(X),(X),(X)
+        400 percent of poverty level,"80,927","±4,163",(X),(X),(X),(X)
+        500 percent of poverty level,"96,328","±3,491",(X),(X),(X),(X)
+UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,"27,894","±2,448","9,837","±1,544",35.30%,±4.5
+    Male,"13,404","±1,501","4,133","±1,062",30.80%,±6.6
+    Female,"14,490","±1,631","5,704",±863,39.40%,±5.1
+    15 years,79,±144,79,±144,100.00%,±71.1
+    16 to 17 years,93,±132,93,±132,100.00%,±65.5
+    18 to 24 years,"2,062",±632,"1,016",±465,49.30%,±17.4
+    25 to 34 years,"4,799",±896,"1,750",±615,36.50%,±10.1
+    35 to 44 years,"2,715",±695,795,±432,29.30%,±15.2
+    45 to 54 years,"3,997","±1,034","1,647",±768,41.20%,±14.2
+    55 to 64 years,"5,179",±982,"2,202",±736,42.50%,±11.1
+    65 to 74 years,"4,806",±986,"1,168",±405,24.30%,±7.7
+    75 years and over,"4,164",±904,"1,087",±478,26.10%,±9.3
+    Mean income deficit for unrelated individuals (dollars),"7,501",±710,(X),(X),(X),(X)
+"    Worked full-time, year-round in the past 12 months","7,872","±1,337",299,±272,3.80%,±3.5
+"    Worked less than full-time, year-round in the past 12 months","6,122","±1,288","2,283",±803,37.30%,±9.6
+    Did not work,"13,900","±1,817","7,255","±1,287",52.20%,±6.5
+    Population in housing units for whom poverty status is determined,"120,998","±1,476","18,134","±2,809",15.00%,±2.3
